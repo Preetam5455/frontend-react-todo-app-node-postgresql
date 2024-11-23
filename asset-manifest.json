@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-react-todo-app-node-postgresql/static/css/main.ddd9e9ed.css",
+    "main.js": "/frontend-react-todo-app-node-postgresql/static/js/main.891fae04.js",
+    "index.html": "/frontend-react-todo-app-node-postgresql/index.html",
+    "main.ddd9e9ed.css.map": "/frontend-react-todo-app-node-postgresql/static/css/main.ddd9e9ed.css.map",
+    "main.891fae04.js.map": "/frontend-react-todo-app-node-postgresql/static/js/main.891fae04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd9e9ed.css",
+    "static/js/main.891fae04.js"
+  ]
+}
